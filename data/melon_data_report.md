@@ -1,0 +1,99 @@
+# 🎵 멜론 차트 발매 트렌드 분석
+
+> **조회 범위:** 2024-01-01 ~ 현재 데이터 시점까지
+
+해당 기간 내 총 **71**개의 곡이 발견되었습니다.
+
+### 📊 장르별 곡 수 요약
+| 장르                   |   곡 수 |
+|:-----------------------|--------:|
+| 댄스                   |      28 |
+| 발라드                 |      22 |
+| 록/메탈                |       6 |
+| 랩/힙합                |       3 |
+| 발라드, 국내드라마     |       2 |
+| R&B/Soul, 인디음악     |       2 |
+| 애니메이션/웹툰        |       2 |
+| 록/메탈, 국내드라마    |       1 |
+| POP, 애니메이션/웹툰   |       1 |
+| 애니메이션/웹툰, J-POP |       1 |
+| 인디음악, 록/메탈      |       1 |
+| 발라드, 인디음악       |       1 |
+| POP                    |       1 |
+
+--- 
+
+### 📝 상세 곡 목록 (최신순)
+| release_date   | title                                      | singer                     | album                                                                   | genre                  |   likes |
+|:---------------|:-------------------------------------------|:---------------------------|:------------------------------------------------------------------------|:-----------------------|--------:|
+| 2026-02-11     | 끝사랑                                     | 테이                       | 끝사랑                                                                  | 발라드                 |    2475 |
+| 2026-02-09     | BANG BANG                                  | IVE (아이브)               | REVIVE+                                                                 | 댄스                   |   18641 |
+| 2026-02-09     | 다시 만난 오늘                             | TWS (투어스)               | 다시 만난 오늘                                                          | 댄스                   |   12086 |
+| 2026-01-26     | 404 (New Era)                              | KiiiKiii (키키)            | Delulu Pack                                                             | 댄스                   |   26567 |
+| 2026-01-16     | 사랑의 언어 (Love Language)                | 김민석 (멜로망스)          | 이 사랑 통역 되나요? (Soundtrack from the Netflix Series)               | 록/메탈, 국내드라마    |   14580 |
+| 2026-01-16     | Daydream                                   | 웬디 (WENDY)               | 이 사랑 통역 되나요? (Soundtrack from the Netflix Series)               | 발라드, 국내드라마     |   10213 |
+| 2025-12-29     | 이 밤을 빌려 말해요                        | PLAVE                      | 이 밤을 빌려 말해요 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X PLAVE) | 발라드                 |   21238 |
+| 2025-12-19     | DUET                                       | 지코 (ZICO)                | DUET                                                                    | 랩/힙합                |   18654 |
+| 2025-12-11     | 365일                                      | 이창섭                     | 365일 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X 이창섭)              | 발라드                 |   12510 |
+| 2025-12-02     | 하얀 그리움                                | 프로미스나인               | 하얀 그리움                                                             | 댄스                   |   35555 |
+| 2025-11-24     | NOT CUTE ANYMORE                           | 아일릿(ILLIT)              | NOT CUTE ANYMORE                                                        | 댄스                   |   40272 |
+| 2025-11-17     | ONE MORE TIME                              | ALLDAY PROJECT             | ALLDAY PROJECT                                                          | 댄스                   |   56707 |
+| 2025-11-13     | 그래 늦지 않았어 (2025)                    | 아샤트리                   | 그래 늦지 않았어(2025)                                                  | 발라드                 |   12605 |
+| 2025-11-07     | 나였으면                                   | 나윤권                     | 나였으면                                                                | 발라드                 |   18914 |
+| 2025-10-27     | 달리 표현할 수 없어요                      | 로이킴                     | 달리 표현할 수 없어요                                                   | 발라드                 |   36094 |
+| 2025-10-24     | SPAGHETTI (feat. j-hope of BTS)            | LE SSERAFIM (르세라핌)     | SPAGHETTI                                                               | 댄스                   |   46361 |
+| 2025-10-20     | Hollywood Action                           | BOYNEXTDOOR                | The Action                                                              | 댄스                   |   56746 |
+| 2025-10-20     | FOCUS                                      | Hearts2Hearts (하츠투하츠) | FOCUS - The 1st Mini Album                                              | 댄스                   |   34432 |
+| 2025-10-16     | 타임캡슐                                   | 다비치                     | 타임캡슐                                                                | 발라드                 |   59980 |
+| 2025-10-15     | Good Goodbye                               | 화사 (HWASA)               | Good Goodbye                                                            | 발라드                 |  110049 |
+| 2025-10-13     | Blue Valentine                             | NMIXX                      | Blue Valentine                                                          | 댄스                   |  108176 |
+| 2025-10-13     | OVERDRIVE                                  | TWS (투어스)               | TWS 4th Mini Album ‘play hard’                                          | 댄스                   |   35848 |
+| 2025-10-10     | Zoo (From "Zootopia 2"/Soundtrack Version) | Disney                     | Zoo (From "Zootopia 2")                                                 | POP, 애니메이션/웹툰   |   32572 |
+| 2025-09-15     | IRIS OUT                                   | Kenshi Yonezu              | IRIS OUT                                                                | 애니메이션/웹툰, J-POP |   74827 |
+| 2025-09-07     | 가만히 눈을 감고                           | DK(디셈버)                 | 가만히 눈을 감고                                                        | 발라드                 |   20046 |
+| 2025-09-05     | Rich Man                                   | aespa                      | Rich Man - The 6th Mini Album                                           | 댄스                   |   50584 |
+| 2025-08-29     | 순간을 영원처럼                            | 임영웅                     | IM HERO 2                                                               | 발라드                 |   47034 |
+| 2025-08-29     | 들꽃이 될게요                              | 임영웅                     | IM HERO 2                                                               | 발라드                 |   37875 |
+| 2025-08-29     | 그댈 위한 멜로디                           | 임영웅                     | IM HERO 2                                                               | 댄스                   |   37803 |
+| 2025-08-27     | 한번 더 이별                               | 이창섭                     | 한번 더 이별 (첫사랑 엔딩 X 이창섭)                                     | 발라드                 |   31617 |
+| 2025-08-25     | XOXZ                                       | IVE (아이브)               | IVE SECRET                                                              | 댄스                   |   52813 |
+| 2025-08-10     | 시작의 아이 ❍                              | 박다혜                     | 시작의 아이 ❍ ハジマリのコ Starting With You : ♡                        | R&B/Soul, 인디음악     |   66765 |
+| 2025-08-04     | 0+0                                        | 한로로                     | 자몽살구클럽                                                            | 인디음악, 록/메탈      |   68091 |
+| 2025-07-27     | 운명 (2025)                                | 먼데이 키즈                | 먼키의 발자국 Vol.1 With 이이경                                         | 발라드                 |   34239 |
+| 2025-07-14     | 멸종위기사랑                               | 이찬혁                     | EROS                                                                    | 댄스                   |   81543 |
+| 2025-07-11     | 뛰어(JUMP)                                 | BLACKPINK                  | 뛰어(JUMP)                                                              | 댄스                   |   92562 |
+| 2025-06-27     | Dirty Work                                 | aespa                      | Dirty Work                                                              | 댄스                   |   67682 |
+| 2025-06-23     | FAMOUS                                     | ALLDAY PROJECT             | FAMOUS                                                                  | 댄스                   |  129275 |
+| 2025-06-20     | Golden                                     | HUNTR/X                    | KPop Demon Hunters (Soundtrack from the Netflix Film)                   | 애니메이션/웹툰        |  190287 |
+| 2025-06-20     | Soda Pop                                   | KPop Demon Hunters Cast    | KPop Demon Hunters (Soundtrack from the Netflix Film)                   | 애니메이션/웹툰        |  115736 |
+| 2025-06-18     | STYLE                                      | Hearts2Hearts (하츠투하츠) | STYLE                                                                   | 댄스                   |   52446 |
+| 2025-06-16     | 빌려온 고양이 (Do the Dance)               | 아일릿(ILLIT)              | bomb                                                                    | 댄스                   |   55551 |
+| 2025-05-27     | Never Ending Story                         | 아이유                     | 꽃갈피 셋                                                               | 발라드                 |   83838 |
+| 2025-03-31     | 어제보다 슬픈 오늘                         | 우디 (Woody)               | 어제보다 슬픈 오늘                                                      | 발라드                 |   79505 |
+| 2025-03-13     | Flower                                     | 오반(OVAN)                 | 교회오빠                                                                | 발라드, 인디음악       |   80929 |
+| 2025-03-07     | like JENNIE                                | 제니 (JENNIE)              | Ruby                                                                    | 댄스                   |  106645 |
+| 2025-03-06     | 너에게 닿기를                              | 10CM                       | 너에게 닿기를                                                           | 록/메탈                |  141985 |
+| 2025-02-25     | TOO BAD (feat. Anderson .Paak)             | G-DRAGON                   | Übermensch                                                              | 랩/힙합                |  154844 |
+| 2025-02-22     | MY LOVE(2025)                              | 이예은                     | MY LOVE(2025)                                                           | 발라드                 |   37881 |
+| 2025-01-13     | REBEL HEART                                | IVE (아이브)               | IVE EMPATHY                                                             | 댄스                   |  117207 |
+| 2025-01-07     | 모르시나요(PROD.로코베리)                  | 조째즈                     | 모르시나요                                                              | 발라드                 |  104092 |
+| 2025-01-06     | 오늘만 I LOVE YOU                          | BOYNEXTDOOR                | 오늘만 I LOVE YOU                                                       | 댄스                   |  182489 |
+| 2025-01-01     | 시작의 아이                                | 마크툽 (MAKTUB)            | 시작의 아이 ハジマリのコ (Starting With You)                            | R&B/Soul, 인디음악     |   83573 |
+| 2024-12-06     | toxic till the end                         | 로제 (ROSÉ)                | rosie                                                                   | 록/메탈                |  145603 |
+| 2024-11-22     | HOME SWEET HOME (feat. 태양, 대성)         | G-DRAGON                   | HOME SWEET HOME (feat. 태양, 대성)                                      | 랩/힙합                |  228217 |
+| 2024-10-21     | 나는 반딧불                                | 황가람                     | 나는 반딧불                                                             | 발라드                 |  157102 |
+| 2024-10-21     | Whiplash                                   | aespa                      | Whiplash - The 5th Mini Album                                           | 댄스                   |  150850 |
+| 2024-10-18     | APT.                                       | 로제 (ROSÉ)                | APT.                                                                    | 댄스                   |  219710 |
+| 2024-10-16     | 내게 사랑이 뭐냐고 물어본다면              | 로이킴                     | 내게 사랑이 뭐냐고 물어본다면                                           | 발라드                 |   92253 |
+| 2024-10-07     | 청춘만화                                   | 이무진                     | 만화 (滿花)                                                             | 록/메탈                |   95292 |
+| 2024-08-16     | Die With A Smile                           | Lady Gaga                  | Die With A Smile                                                        | POP                    |  130368 |
+| 2024-05-13     | Supernova                                  | aespa                      | Armageddon - The 1st Album                                              | 댄스                   |  186744 |
+| 2024-04-08     | 소나기                                     | 이클립스 (ECLIPSE)         | 선재 업고 튀어 OST Part 1                                               | 발라드, 국내드라마     |  192446 |
+| 2024-04-02     | 청혼하지 않을 이유를 못 찾았어             | 이무진                     | 청혼하지 않을 이유를 못 찾았어                                          | 발라드                 |   69599 |
+| 2024-04-01     | 고민중독                                   | QWER                       | 1st Mini Album 'MANITO'                                                 | 록/메탈                |  154662 |
+| 2024-03-25     | Magnetic                                   | 아일릿(ILLIT)              | SUPER REAL ME                                                           | 댄스                   |  143102 |
+| 2024-03-18     | HAPPY                                      | DAY6 (데이식스)            | Fourever                                                                | 록/메탈                |  209453 |
+| 2024-03-18     | Welcome to the Show                        | DAY6 (데이식스)            | Fourever                                                                | 록/메탈                |  194473 |
+| 2024-02-21     | 천상연                                     | 이창섭                     | 천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))                        | 발라드                 |  143194 |
+| 2024-02-20     | Love wins all                              | 아이유                     | The Winning                                                             | 발라드                 |  220251 |
+| 2024-01-22     | 첫 만남은 계획대로 되지 않아               | TWS (투어스)               | TWS 1st Mini Album ‘Sparkling Blue’                                     | 댄스                   |  170820 |
